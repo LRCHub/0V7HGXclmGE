@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "つぐない",
+  "base_artist": "德永英明",
+  "createdAt": "2026-02-25T13:53:12.352281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "鮎川麻弥",
+      "has_synced": false,
+      "path": "select/01_つぐない_鮎川麻弥.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "つぐない (Tsugunai)",
+      "artist": "Mami Ayukawa",
+      "has_synced": false,
+      "path": "select/02_つぐない_(Tsugunai)_Mami_Ayukawa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/03_つぐない_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "テレサ・テン",
+      "has_synced": true,
+      "path": "select/04_つぐない_テレサ・テン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/05_つぐない_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/06_つぐない_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "テレサ・テン",
+      "has_synced": true,
+      "path": "select/07_つぐない_テレサ・テン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "テレサ・テン",
+      "has_synced": true,
+      "path": "select/08_つぐない_テレサ・テン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Teng, Teresa",
+      "has_synced": true,
+      "path": "select/09_つぐない_Teng,_Teresa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "テレサ・テン",
+      "has_synced": true,
+      "path": "select/10_つぐない_テレサ・テン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "邓丽君",
+      "has_synced": true,
+      "path": "select/11_つぐない_邓丽君.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/12_つぐない_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "テレサ.テン",
+      "has_synced": true,
+      "path": "select/13_つぐない_テレサ.テン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "邓丽君",
+      "has_synced": true,
+      "path": "select/14_つぐない_邓丽君.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/15_つぐない_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/16_つぐない_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "つぐない (Instrumental)",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/17_つぐない_(Instrumental)_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "つぐない",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/18_つぐない_Ms.OOJA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つぐない",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_01_つぐない_徳永_英明.txt"
+    }
+  ]
+}
